@@ -1,0 +1,14 @@
+GridX = 524
+GridY = 32
+NextGemPanelX = 476
+NextGemPanelY = 32
+ScoreX = 419
+ScoreY = 421
+GameOverX = 524
+GameOverY = 224
+WarningBoxX = 521
+WarningBoxY = 492
+CounterBoxX = 521
+CounterBoxY = 492
+CrushBoxX = 594
+CrushBoxY = 192
