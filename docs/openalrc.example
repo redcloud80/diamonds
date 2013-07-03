@@ -1,2 +1,0 @@
-(define devices '(alsa))
-(define alsa-out-device "default")
